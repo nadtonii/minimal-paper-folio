@@ -10,7 +10,7 @@ const Index = () => {
             {'Toni Nađ,\nProduct Designer.'}
           </div>
           <div style={{ boxSizing: 'border-box', color: '#000000', flexShrink: '0', fontFamily: '"Inter", system-ui, sans-serif', fontSize: '16px', fontSynthesis: 'none', fontWeight: 500, height: 'fit-content', letterSpacing: '-0.015em', lineHeight: '140%', MozOsxFontSmoothing: 'grayscale', transformOrigin: '50% 50%', WebkitFontSmoothing: 'antialiased', whiteSpace: 'pre', width: 'fit-content' }}>
-            {'Currently working at Porsche Digital,\ncdesigning user-centric experiences for\nPorsche drivers.'}
+            {'Currently working at Porsche Digital,\ndesigning user-centric experiences for\nPorsche drivers.'}
           </div>
         </div>
         <div style={{ alignItems: 'start', boxSizing: 'border-box', contain: 'layout', display: 'flex', flexDirection: 'row', flexShrink: '0', gap: 34, height: 'fit-content', justifyContent: 'start', overflowWrap: 'break-word', paddingBlock: 0, paddingInline: 0, transformOrigin: '50% 50%', width: 'fit-content' }}>
