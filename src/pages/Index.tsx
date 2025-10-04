@@ -2,7 +2,7 @@ import { Dithering } from '@paper-design/shaders-react';
 
 const Index = () => {
   return (
-    <div style={{ backgroundColor: '#FFFFFF', minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+    <div style={{ backgroundColor: '#000000', minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
       <div style={{ alignItems: 'start', boxSizing: 'border-box', contain: 'layout', display: 'flex', flexDirection: 'column', gap: '32px', height: '100%', justifyContent: 'center', overflowWrap: 'break-word', paddingBlock: 0, paddingInline: '16px', transformOrigin: '0% 0%', width: '100%' }}>
         <div style={{ alignItems: 'start', boxSizing: 'border-box', contain: 'layout', display: 'flex', flexDirection: 'column', flexShrink: '0', gap: '12px', height: 'fit-content', justifyContent: 'start', overflowWrap: 'break-word', paddingBlock: 0, paddingInline: 0, transformOrigin: '50% 50%', width: 'fit-content' }}>
           <Dithering colorBack="#00000000" colorFront="#FFFFFF" speed={1} shape="sphere" type="4x4" size={2} scale={0.99} frame={60229.999999970314} style={{ flexShrink: '0', height: '43px', width: '43px' }} />
